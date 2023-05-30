@@ -12,7 +12,8 @@ CREATE TABLE Cars
  );
   
  INSERT INTO Cars
- VALUES (1,'Opel','Astra',1.5,250000,180),
+ VALUES 
+ (1,'Opel','Astra',1.5,250000,180),
  (2,'Audi','Q3',1.9,700000,220),
  (3,'Toyota','RAW4',2,250000,180);
  
